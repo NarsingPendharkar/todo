@@ -1,0 +1,264 @@
+Here are interview coding questions (Java, 4+ years experience) — questions only, no answers:
+
+
+---
+
+🔹 Core Java & OOP
+
+1. Implement a Singleton class in Java (thread-safe, lazy initialization).
+
+
+2. Write a program to demonstrate immutable class design.
+
+
+3. Difference between shallow copy vs deep copy — implement both.
+
+
+4. Create a custom LRU Cache using Java.
+
+
+5. Implement your own HashMap (basic put/get).
+
+
+6. Design a Parking Lot system using OOP principles.
+
+
+7. Write code to demonstrate method overloading vs overriding.
+
+
+
+
+---
+
+🔹 Collections & Streams
+
+8. Remove duplicates from a list using Streams API.
+
+
+9. Sort a list of objects by multiple fields (Comparator).
+
+
+10. Find frequency of elements in a list using streams.
+
+
+11. Convert a list to a map with duplicate keys handling.
+
+
+12. Find the second highest salary from a list of employees.
+
+
+13. Group strings by anagrams.
+
+
+14. Merge two maps with value conflict resolution.
+
+
+15. Find top K frequent elements.
+
+
+
+
+---
+
+🔹 Multithreading & Concurrency
+
+16. Print numbers 1–100 using 2 threads (odd/even).
+
+
+17. Implement Producer-Consumer problem.
+
+
+18. Create a Deadlock scenario and resolve it.
+
+
+19. Use ExecutorService to process tasks concurrently.
+
+
+20. Implement a thread-safe Counter class.
+
+
+21. Write a program using Callable and Future.
+
+
+22. Demonstrate race condition and fix it.
+
+
+
+
+---
+
+🔹 Data Structures & Algorithms
+
+23. Reverse a linked list (iterative & recursive).
+
+
+24. Detect cycle in a linked list.
+
+
+25. Find intersection point of two linked lists.
+
+
+26. Implement stack using queue.
+
+
+27. Implement queue using stack.
+
+
+28. Find balanced parentheses in a string.
+
+
+29. Find longest substring without repeating characters.
+
+
+30. Find first non-repeating character.
+
+
+31. Check if two strings are anagrams.
+
+
+32. Find missing number in array (1–n).
+
+
+33. Rotate an array by K positions.
+
+
+34. Find maximum subarray sum (Kadane’s Algorithm).
+
+
+35. Merge overlapping intervals.
+
+
+
+
+---
+
+🔹 String Problems
+
+36. Reverse words in a sentence.
+
+
+37. Check if a string is palindrome (without using reverse).
+
+
+38. Count occurrences of each character.
+
+
+39. Find longest common prefix.
+
+
+40. Implement string compression (e.g., aabcc → a2b1c2).
+
+
+
+
+---
+
+🔹 Java 8+ Features
+
+41. Use streams to partition numbers into even/odd.
+
+
+42. Find duplicates using Streams.
+
+
+43. Convert list of objects to map using streams.
+
+
+44. Demonstrate functional interfaces.
+
+
+45. Write custom Collector.
+
+
+
+
+---
+
+🔹 Exception Handling
+
+46. Create a custom exception.
+
+
+47. Demonstrate try-with-resources.
+
+
+48. Difference between checked and unchecked exceptions (code example).
+
+
+
+
+---
+
+🔹 File Handling
+
+49. Read a file and count word frequency.
+
+
+50. Merge multiple files into one.
+
+
+
+
+---
+
+🔹 System Design (Coding + Design)
+
+51. Design a URL Shortener (basic logic).
+
+
+52. Implement Rate Limiter.
+
+
+53. Design a Notification System.
+
+
+54. Implement Cache with expiry.
+
+
+55. Design a Thread Pool.
+
+
+
+
+---
+
+🔹 SQL + Java Integration (Important for backend)
+
+56. Write Java code to fetch data using JDBC.
+
+
+57. Implement pagination in Java.
+
+
+58. Map ResultSet to POJO manually.
+
+
+
+
+---
+
+🔹 Real-world Coding
+
+59. Parse JSON and map to Java object.
+
+
+60. Build REST API (Spring Boot) for CRUD operations.
+
+
+61. Validate input fields using annotations.
+
+
+62. Implement logging using AOP.
+
+
+
+
+---
+
+If you want, I can next:
+
+Provide **answers + optimized solutions**, or
+
+Give **company-wise questions (TCS, Infosys, Capgemini, etc.)**, or
+
+Share a **mock interview set (timed)** 👍
